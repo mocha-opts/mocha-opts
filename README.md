@@ -1,5 +1,5 @@
 ### Hi there
-I'm Coconut, front-end developer.
+I'm Coconut, a front-end developer.
 
 ### About Me
 
