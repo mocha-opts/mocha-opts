@@ -1,15 +1,15 @@
 ### Hi there
 - 🔭 I’m currently working on finding best practice on backend system
 - 🌱 I’m currently learning Umi,Formily  ...
-- 👯 I’m looking to collaborate on React Application
-- 💬 Ask me about React
+- 👯 I’m looking to collaborate on other content creator
+- 🎯 2022 Goals: Contribute more to self projects
 - 😄 Pronouns: Coconut
 - ⚡ Fun fact: I'm a coconut killer
-### About Me
+<div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mocha-opts&show_icons=true&theme=buefy&count_private=true&hide_border=true&cache_seconds=1900"/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mocha-opts&layout=compact"/>
-
+<!-- <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mocha-opts&layout=compact"/> -->
+</div>
 
 
 
