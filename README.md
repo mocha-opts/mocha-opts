@@ -1,13 +1,16 @@
 ### Hi there
-I'm Coconut, a front-end developer.
-
+- 🔭 I’m currently working on finding best practice on backend system
+- 🌱 I’m currently learning Umi,Formily  ...
+- 👯 I’m looking to collaborate on React Application
+- 💬 Ask me about React
+- 😄 Pronouns: Coconut
+- ⚡ Fun fact: I'm a coconut killer
 ### About Me
 
 ![Coconut's GitHub stats](https://github-readme-stats.vercel.app/api?username=mocha-opts&show_icons=true&theme=buefy&count_private=true&hide_border=true&cache_seconds=1900)
 
 ![Coconut's GitHub top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mocha-opts&layout=compact)
 
-![](https://komarev.com/ghpvc/?username=mocha-opts&style=flat-square&label=VIEWS)
 
 
 <!--
@@ -25,4 +28,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--![](https://hit.yhype.me/github/profile?user_id=53444217)-->
+<!--
+![](https://komarev.com/ghpvc/?username=mocha-opts&style=flat-square&label=VIEWS)
+![](https://hit.yhype.me/github/profile?user_id=53444217)
+-->
