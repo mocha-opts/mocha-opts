@@ -1,6 +1,6 @@
 ### Hi there
 - 🔭 I’m currently working on finding best practice on backend system
-- 🌱 I’m currently learning Rust  ...
+- 🌱 I’m currently learning Nest and Rust  ...
 - 👯 I’m looking to collaborate on other content creator
 - 🎯 2022 Goals: Contribute more to self projects
 - 😄 Pronouns: Coconut
