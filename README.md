@@ -2,9 +2,9 @@
 - 🔭 I’m currently working on finding best practice on backend system
 - 🌱 I’m currently learning Nest and Rust  ...
 - 👯 I’m looking to collaborate on other content creator
-- 🎯 2023 Goals: Contribute more to self
-- 😄 Pronouns: Coconut
-- ⚡ Fun fact: I'm a coconut killer
+- 🎯 2026 Goals: Contribute more to self
+- 😄 Pronouns: Mocha
+- ⚡ Fun fact: I'm a Mocha Lover
 <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mocha-opts&show_icons=true&theme=buefy&count_private=true&hide_border=true&cache_seconds=1900"/>
 
